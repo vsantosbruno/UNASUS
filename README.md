@@ -1,5 +1,7 @@
 # UNASUS
 
-Para a prova WEb clone o branch web
+Agora favor modificar o brach para o que você vai fazer a avaliação;
 
-Para a prova Android clone o branch android
+WEb, branch web;
+
+Android, branch android;
